@@ -1,0 +1,28 @@
+# Archivos generados por .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# Archivos de configuración
+*.json
+appsettings.*
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Archivos de Visual Studio
+.vs/
+*.vssettings
+
+# Archivos de Rider
+.idea/
+
+# Pero PERMITIR imágenes (no ignorar archivos de imagen)
+# *.jpg, *.png, *.gif, *.bmp, *.svg, *.ico están permitidos
