@@ -1,0 +1,15 @@
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\bin\Debug\net8.0\EjemploAVL.exe
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\bin\Debug\net8.0\EjemploAVL.deps.json
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\bin\Debug\net8.0\EjemploAVL.runtimeconfig.json
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\bin\Debug\net8.0\EjemploAVL.dll
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\bin\Debug\net8.0\EjemploAVL.pdb
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\EjemploAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\EjemploAVL.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\EjemploAVL.AssemblyInfo.cs
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\EjemploAVL.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\EjemploAVL.sourcelink.json
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\EjemploAVL.dll
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\refint\EjemploAVL.dll
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\EjemploAVL.pdb
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\EjemploAVL.genruntimeconfig.cache
+C:\Users\VICTUS\Documents\Progra\Tarea3\TareaArbolesAVL\EjemploAVL\obj\Debug\net8.0\ref\EjemploAVL.dll
